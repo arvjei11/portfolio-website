@@ -83,7 +83,7 @@ export default function WorkDesktop() {
                 <a href="https://github.com/arvjei11/NLP-Resume-Screening-Base-Model">
                   {" "}
                   <button>
-                    <span>Github</span>
+                    <span>Base Model</span>
                   </button>
                 </a>
               </div>
@@ -113,7 +113,7 @@ Led development on a full-fledged social media web app over 4 months as an acade
                   <button
                     style={{ backgroundColor: "#3f4399", color: "#FFFFFF" }}
                   >
-                    <span>Website </span>
+                    <span>Source Code</span>
                   </button>
                 </a>
               </div>
@@ -147,7 +147,7 @@ Demonstrated Java web development skills through robust backend and sleek fronte
                   <button
                     style={{ backgroundColor: "#2f3640", color: "#44bd32" }}
                   >
-                    <span>Github </span>
+                    <span>Source Code</span>
                   </button>
                 </a>
               </div>
@@ -235,7 +235,6 @@ This repository presents Java solutions to LeetCode algorithm challenges, highli
                     <span>My Github</span>
                   </button>
                 </a>
-
               </div>
             </div>
           </section>
