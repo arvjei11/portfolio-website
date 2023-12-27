@@ -118,7 +118,7 @@ Led development on a full-fledged social media web app over 4 months as an acade
                 </a>
               </div>
             </div>
-            <img src="/work/smap.png" alt="FB Clone App" />
+            <img style={{}}src="/work/smap.png" alt="FB Clone App" />
           </section>
           <section className="panel green" ref={(e) => createPanelsRefs(e, 3)}>
             <div className="content">
@@ -152,7 +152,7 @@ Demonstrated Java web development skills through robust backend and sleek fronte
                 </a>
               </div>
             </div>
-            <img style={{}} src="/work/daiday.png" alt="DanceFlavors App" />
+            <img style={{}} src="/work/daiday.png" alt="COVID19 APP" />
           </section>
           <section className="panel purple" ref={(e) => createPanelsRefs(e, 4)}>
             <div className="content">
