@@ -19,45 +19,41 @@ function ProjectsColumn() {
           "                Led NLP implementation for intelligent resume screening as an undergraduate research project. Architected core extraction and scoring algorithms using techniques like cosine similarity to rank candidates.",
         techs: "TensorFlow, NLP, Python",
         links: {
-          github: "",
-          website: "https://www.danceflavors.com/",
+          github: "https://github.com/arvjei11/NLP-Resume-Screening-Base-Model",
         },
       },
       {
         backgroundColor: `#0a9396`,
         type: `Website`,
-        title: `<strong>Metavest</strong>`,
+        title: `<strong>Meta Facebook Clone</strong>`,
         subtitle:
-          "Worked on metavest.app website, created bunch of pages and components with the care of responsive design. Mainly used Reactjs and Nextjs along with CSS and HTML, used Strapi for CMS and localization.",
-        techs: "Reactjs Nextjs Strapi CSS HTML",
+          "Led development on a full-fledged social media web app over 4 months as an academic project. Wove together a React-powered frontend with smooth UI flows for sharing posts, pics, and connecting with friends. Built out the backend using Node.js and MongoDB to make everything tick, from user profiles to messaging APIs. Spent days perfecting APIs—optimizing and slicing response times for snappy performance. Rigorously tested across browsers and devices to polish the user experience—no glitches allowed",
+        techs: "Reactjs Nodejs MongoDB Expressjs",
         links: {
           github: "",
-          website: "https://metavest.app/",
+          website: "https://github.com/arvjei11/react-social-app",
         },
       },
       {
         backgroundColor: `#CCFAED`,
-        type: `Mobile App`,
-        title: `<strong>DaiDay</strong>`,
+        type: `Web App`,
+        title: `<strong>COVID-19 Case Tracker</strong>`,
         subtitle:
-          "Created my first solo Mobile app and published it on Google Play Store, even though it is not perfect i am proud of my work and that i learned it all by myself during University. Mainly used Flutter and Dart programming language, Hive and SQFLite for database, BLoC for state management.",
-        techs: "Flutter SQL NoSQL BloC",
+          "Crafted an intuitive Java/Spring Boot web dashboard to visualize COVID-19 spread. Retrieved live CSV data and rendered clean visualizations with Thymeleaf.Focused on consumable data presentation and smooth UX, earning praise for public health education. Demonstrated Java web development skills through robust backend and sleek frontend.",
+        techs: "Java Spring Boot Thymeleaf Template",
         links: {
-          github: "https://github.com/umutyesildal/daiday",
-          website:
-            "https://play.google.com/store/apps/details?id=com.greendal.daiday",
+          github: "https://github.com/arvjei11/covid-case-tracker",
         },
       },
       {
         backgroundColor: `#D5EAFF`,
-        type: `Mobile App`,
-        title: `<strong>Mercedes Assistify</strong>`,
+        type: `Repository`,
+        title: `<strong>Leetcode Solutions</strong>`,
         subtitle:
-          "At the last year of my Bachelor, University arranged a joint lecture with Mercedes Turkey. I had the chance to meet with executives of Mercedes Turkey and find a solution to a problem Mercedes is having. Assistify is focused on solving Mercedes car users problems via Mobile App. Mainly used Flutter and Dart programming language, Hive and SQFLite for database, BLoC for state management.",
-        techs: "Flutter SQL NoSQL BloC",
+          "This repository presents Java solutions to LeetCode algorithm challenges, highlighting skills in data structure implementation, algorithm analysis, and object-oriented programming. Solutions aim to balance correctness, efficiency, and maintainable design.",
+        techs: "Java Python Data Structures and Algorithms",
         links: {
-          github: "https://github.com/umutyesildal/mercedes-assistify",
-          website: "",
+          github: "https://github.com/arvjei11/leetcode-solutions",
         },
       },
     ],
