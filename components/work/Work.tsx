@@ -17,8 +17,8 @@ gsap.registerPlugin(ScrollTrigger);
 
 export default function WorkDesktop() {
   const [texts] = useState({
-    title: `<strong>Work,</strong> my previous projects.`,
-    subtitle: "Here are the projects that i have worked on before.",
+    title: `<strong>Projects</strong>`,
+    subtitle: "Here are the projects that I have worked on before.",
   });
   const panels = useRef([]);
   const panelsContainer = useRef();

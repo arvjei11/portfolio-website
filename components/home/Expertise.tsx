@@ -13,7 +13,7 @@ import { useState } from "react";
 
 export default function Expertise() {
   const [texts] = useState({
-    title: `<strong>Expertise,</strong> what I worked on before.`,
+    title: `<strong>Expertise</strong>`,
     subtitle: `I have worked on bunch of projects and technologies and these are the topics I am most skilled at.`,
     item1Title: `Back-End Development`,
     item2Title: `Intelligent Systems Development`,

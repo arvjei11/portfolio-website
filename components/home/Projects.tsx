@@ -14,7 +14,7 @@ import { useState } from "react";
 
 export default function Projects() {
   const [texts] = useState({
-    title: `<strong>Projects,</strong>`,
+    title: `<strong>Projects</strong>`,
     subtitle: "Here are the projects that I have worked on before.",
   });
 
