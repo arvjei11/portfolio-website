@@ -12,7 +12,7 @@ import { useState } from "react";
 
 export default function Experience() {
   const [texts] = useState({
-    title: `<strong>Experience and Accomplishments,</strong> what I have accomplished and where I worked before          `,
+    title: `<strong>Experience and Accomplishments</strong>`,
     subtitle: `Highlighting my achievements and positions held in the past`,
   });
 

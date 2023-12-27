@@ -13,7 +13,7 @@ import { useState } from "react";
 export default function Contact() {
   const [texts] = useState({
     title: `<strong>Get in touch</strong> with me.`,
-    subtitle: `Whether you have a question or simply want to say hello, I will do my best to respond to you asap.<br/><br/> "You miss 100% of the shots you don't take. - Wayne Gretzky" by Michael Scott
+    subtitle: `Whether you have a question or simply want to say hello, I will do my best to respond to you asap.<br/><br/>
     `,
   });
 

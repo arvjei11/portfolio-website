@@ -18,7 +18,7 @@ gsap.registerPlugin(ScrollTrigger);
 export default function WorkDesktop() {
   const [texts] = useState({
     title: `<strong>Projects</strong>`,
-    subtitle: "Here are the projects that I have worked on before.",
+    subtitle: "I have worked on a range of projects that allowed me to develop expertise in machine learning, data engineering, and full-stack development.",
   });
   const panels = useRef([]);
   const panelsContainer = useRef();
@@ -221,7 +221,7 @@ This repository presents Java solutions to LeetCode algorithm challenges, highli
               <h1
                 style={{ color: "#FCE38A" }}
                 dangerouslySetInnerHTML={{
-                  __html: `<strong>More,</strong> checkout more at links below`,
+                  __html: `<strong>More Below</strong>`,
                 }}
               ></h1>
               <div className="box2">
