@@ -179,7 +179,7 @@ This repository presents Java solutions to LeetCode algorithm challenges, highli
                 <a href="https://github.com/arvjei11/leetcode-solutions">
                   {" "}
                   <button>
-                    <span>Github </span>
+                    <span>Repo Link</span>
                   </button>
                 </a>
               </div>
@@ -210,7 +210,7 @@ This repository presents Java solutions to LeetCode algorithm challenges, highli
               <div className="box">
                 <a href="https://www.hackerrank.com/arvindjei11">
                   <button>
-                    <span>Github </span>
+                    <span>HackerRank</span>
                   </button>
                 </a>
               </div>
@@ -235,6 +235,11 @@ This repository presents Java solutions to LeetCode algorithm challenges, highli
                     <span>My Github</span>
                   </button>
                 </a>
+                <a href="https://arvjei11.github.io/Resume/">
+                  <button>
+                    <span>Resume</span>
+                  </button>
+                </a>  
               </div>
             </div>
           </section>
