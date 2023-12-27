@@ -12,7 +12,7 @@ function ProjectsColumn() {
   const [texts] = useState({
     projects: [
       {
-        backgroundColor: `#0a9396`,
+        backgroundColor: `#7BD3EA`,
         type: ` Web App`,
         title: `<strong>Talent Scout - NLP Powered Recruiting</strong>`,
         subtitle:
@@ -23,19 +23,19 @@ function ProjectsColumn() {
         },
       },
       {
-        backgroundColor: `#0a9396`,
+        backgroundColor: `#A1EEBD`,
         type: `Website`,
         title: `<strong>Meta Facebook Clone</strong>`,
         subtitle:
           "Led development on a full-fledged social media web app over 4 months as an academic project. Wove together a React-powered frontend with smooth UI flows for sharing posts, pics, and connecting with friends. Built out the backend using Node.js and MongoDB to make everything tick, from user profiles to messaging APIs. Spent days perfecting APIs—optimizing and slicing response times for snappy performance. Rigorously tested across browsers and devices to polish the user experience—no glitches allowed",
         techs: "Reactjs Nodejs MongoDB Expressjs",
         links: {
-          github: "",
-          website: "https://github.com/arvjei11/react-social-app",
+          github: "https://github.com/arvjei11/react-social-app",
+          website: "",
         },
       },
       {
-        backgroundColor: `#CCFAED`,
+        backgroundColor: `#F6F7C4`,
         type: `Web App`,
         title: `<strong>COVID-19 Case Tracker</strong>`,
         subtitle:
@@ -46,7 +46,7 @@ function ProjectsColumn() {
         },
       },
       {
-        backgroundColor: `#D5EAFF`,
+        backgroundColor: `#F6D6D6`,
         type: `Repository`,
         title: `<strong>Leetcode Solutions</strong>`,
         subtitle:
