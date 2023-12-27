@@ -118,7 +118,7 @@ Led development on a full-fledged social media web app over 4 months as an acade
                 </a>
               </div>
             </div>
-            <img src="/work/SMAP.png" alt="FB Clone App" />
+            <img src="work/smap.PNG" alt="FB Clone App" />
           </section>
           <section className="panel green" ref={(e) => createPanelsRefs(e, 3)}>
             <div className="content">
