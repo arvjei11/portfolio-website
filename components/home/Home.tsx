@@ -14,7 +14,7 @@ export default function Home() {
   const [texts] = useState({
     title: "Arvind Jei",
     subtitle:
-      "Exploring the edges of technology, crafting creative code along the way.<br/><br/> Jack of all trades, blending art and science to build the future.",
+      "Software Developer and CS Graduate Student at UTD.",
   });
   return (
     <>
