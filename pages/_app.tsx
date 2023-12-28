@@ -4,7 +4,8 @@ import "react-notion-x/src/styles.css";
 import { createContext, useEffect } from "react";
 import { RequestContext as RequestContextType } from "types/requestContext";
 import { Analytics } from '@vercel/analytics/react';
-
+import type { AppProps } from 'next/app';
+ 
 export const RequestContext = createContext<Partial<RequestContextType>>({});
 
 type AppRootProps = {
@@ -14,9 +15,11 @@ type AppRootProps = {
 function AppRoot(props: AppRootProps) {
   const Component = props.Component;
   const pageProps = props.pageProps;
-  <Analytics />
 
-  return <Component {...pageProps} />;
+  return (<>
+  <Component {...pageProps} />
+  <Analytics />
+  </>);
 }
 
 AppRoot.getInitialProps = async (ctx) => {
